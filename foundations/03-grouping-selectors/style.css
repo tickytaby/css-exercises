@@ -1,0 +1,15 @@
+/* CSS exercise 03-grouping-selectors */
+.inverted,
+.fancy {
+    font-size: 28px;
+    font: Helvetica "Times New Roman" sans-serif
+}
+
+.inverted {
+    background-color: black;
+    color: white
+}
+
+.fancy {
+    background-color: yellow;
+}
