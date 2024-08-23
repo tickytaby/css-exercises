@@ -1,0 +1,20 @@
+/* CSS Styling for 02-class-id-selectors */
+.odd {
+    background-color: rgb(255, 0, 85);
+    font: "Verdana" "DejaVu Sans" sans-serif
+}
+
+#second {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(72, 236, 72);
+    font-size: 24px;
+    font-weight: bold;
+}
